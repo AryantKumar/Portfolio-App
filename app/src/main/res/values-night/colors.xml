@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Night Mode Colors -->
+    <color name="background_color">#FF121212</color> <!-- Dark background for night mode -->
+    <color name="text_color">#FFFFFFFF</color>      <!-- White text for night mode -->
+    <color name="textmain_color">#F66666</color> <!-- Black text for light mode -->
+
+    <color name="splash_color">#191E39</color>
+    <color name="button_color">#000000</color>
+
+    <color name="bro_color">#000000</color>
+    <color name="primary_text">#B6B2B2</color>
+    <color name="secondary_text">#757575</color>
+    <color name="accent_color">#2196F3</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="ripple_color">#1F000000</color>
+    <color name="icon_tint">#666666</color>
+    <color name="gradient_start">#F8F9FA</color>
+    <color name="gradient_end">#E9ECEF</color>
+    <color name="button_gradient_start">#740303</color>
+    <color name="button_gradient_end">#000000</color>
+    <color name="textcontact_color">#FFFDFD</color>
+    <color name="button_us_color">#FAF5F5</color>
+    <color name="button_text_color">#020202</color>
+
+</resources>
